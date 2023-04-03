@@ -1,0 +1,71 @@
+.shots_scatterplot {
+    margin-left: 345px
+}
+.streamgraph {
+    margin-left: 325px
+}
+.nodelinked {
+    margin-left: 325px
+}
+.barchart_plot {
+    margin-left: 440px
+}
+.section_title {
+    margin-left: 615px
+}
+body {
+    font-family: 'Georgia', serif;
+  }
+/* #intro {
+    margin-left: 150px;
+    margin-right: 150px
+} */
+#choropleth_title {
+    margin-left: 450px;
+    font-size: 22px;
+    font-weight: bold;
+}
+#bar_title {
+    margin-left: 450px;
+    font-size: 22px;
+    font-weight: bold;
+}
+#choropleth_text {
+    margin-left: 190px;
+    margin-right: 190px;
+}
+#bar_text {
+    margin-left: 190px;
+    margin-right: 190px;
+}
+#individual_games {
+    margin-left: 190px;
+    margin-right: 190px;
+}
+#scatter_text {
+    margin-left: 190px;
+    margin-right: 190px;
+}
+#node_text {
+    margin-left: 190px;
+    margin-right: 190px;
+}
+#stream_text {
+    margin-left: 190px;
+    margin-right: 190px;
+}
+#section_title {
+    margin-left: 450px;
+    font-size: 22px;
+    font-weight: bold;
+}
+#Conclusion{
+    margin-left: 650px;
+    font-size: 22px;
+    font-weight: bold;
+}
+#marks_and_channels_title{
+    margin-left: 600px;
+    font-size: 22px;
+    font-weight: bold;
+}

@@ -1,0 +1,137 @@
+Team,FDCOUK,City,Stadium,Capacity,Latitude,Longitude,Country,Stad_file
+Arsenal,Arsenal,London,Emirates Stadium,60361,51.555,-0.10861099999999999,England,emirates.jpg
+Aston Villa,Aston Villa,Birmingham,Villa Park,42785,52.509167000000005,-1.884722,England,2
+Blackburn Rovers,Blackburn,Blackburn,Ewood Park,31154,53.728611,-2.4891669999999997,England,3
+Bolton Wanderers,Bolton,Bolton,Reebok Stadium,28100,53.58055600000001,-2.535556,England,4
+Chelsea,Chelsea,London,Stamford Bridge,42449,51.481667,-0.191111,England,stamfordbridge.jpg
+Everton,Everton,Liverpool,Goodison Park,40157,53.438889,-2.966389,England,6
+Fulham,Fulham,London,Craven Cottage,25700,51.475,-0.221667,England,7
+Liverpool,Liverpool,Liverpool,Anfield,45276,53.43081899999999,-2.960828,England,Anfield.jpg
+Manchester City,Man City,Manchester,Etihad Stadium,47405,53.482989,-2.2002919999999997,England,etihad.jpg
+Manchester United,Man United,Stretford,Old Trafford,75811,53.46305600000001,-2.291389,England,oldtrafford.jpg
+Newcastle United,Newcastle,Newcastle upon Tyne,Sports Direct Arena,52409,54.975556000000005,-1.621667,England,11
+Norwich City,Norwich,Norwich,Carrow Road,27010,52.622128000000004,1.308653,England,12
+Queens Park Rangers,QPR,London,Loftus Road,18439,51.509167,-0.23222199999999998,England,13
+Stoke City,Stoke,Stoke-on-Trent,Britannia Stadium,27740,52.988333,-2.1755560000000003,England,14
+Sunderland,Sunderland,Sunderland,Stadium of Light,48707,54.9144,-1.3882,England,15
+Swansea City,Swansea,Swansea,Liberty Stadium,20520,51.6422,-3.9351,England,16
+Tottenham Hotspur,Tottenham,London,White Hart Lane,36230,51.603333,-0.065833,England,whitehartlane.jpg
+West Bromwich Albion,West Brom,West Bromwich,The Hawthorns,27877,52.509167000000005,-1.963889,England,18
+Wigan Athletic,Wigan,Wigan,DW Stadium,25133,53.547778,-2.653889,England,19
+Wolverhampton Wanderers,Wolves,Wolverhampton,Molineux Stadium,27828,52.590278000000005,-2.1302779999999997,England,20
+Barnsley,Barnsley,Barnsley,Oakwell,23009,53.552222,-1.4675,England,21
+Birmingham City,Birmingham,Birmingham,St Andrew's Stadium,30079,52.475703,-1.8681889999999999,England,22
+Blackpool,Blackpool,Blackpool,Bloomfield Road,16220,53.804722,-3.0480560000000003,England,23
+Brighton & Hove Albion,Brighton,Brighton,American Express Community Stadium,22374,50.861822,-0.08327799999999999,England,24
+Bristol City,Bristol City,Bristol,Ashton Gate,21497,51.44,-2.620278,England,25
+Burnley,Burnley,Burnley,Turf Moor,22546,53.789167000000006,-2.2302779999999998,England,26
+Cardiff City,Cardiff,Cardiff,Cardiff City Stadium,26828,51.472778000000005,-3.203056,England,27
+Coventry City,Coventry,Coventry,Ricoh Arena,32609,52.44805600000001,-1.4955559999999999,England,28
+Crystal Palace,Crystal Palace,London,Selhurst Park,26309,51.398333,-0.085556,England,29
+Derby County,Derby,Derby,Pride Park Stadium,33597,52.915,-1.447222,England,30
+Doncaster Rovers,Doncaster,Doncaster,Keepmoat Stadium,15231,53.509722,-1.113889,England,31
+Hull City,Hull,Kingston upon Hull,KC Stadium,25404,53.746111,-0.367778,England,32
+Ipswich Town,Ipswich,Ipswich,Portman Road,30311,52.055061,1.144831,England,33
+Leeds United,Leeds,Leeds,Elland Road,39460,53.777778000000005,-1.572222,England,34
+Leicester City,Leicester,Leicester,King Power Stadium,32500,52.620278000000006,-1.1422219999999998,England,35
+Middlesbrough,Middlesbrough,Middlesbrough,Riverside Stadium,34988,54.57833299999999,-1.216944,England,36
+Millwall,Millwall,London,The Den,20146,51.485953,-0.05095,England,37
+Nottingham Forest,Nott'm Forest,Nottingham,City Ground,30576,52.94,-1.132778,England,38
+Peterborough United,Peterboro,Peterborough,London Road Stadium,15460,52.564696999999995,-0.24040599999999998,England,39
+Portsmouth,Portsmouth,Portsmouth,Fratton Park,20224,50.796389000000005,-1.0638889999999999,England,40
+Reading,Reading,Reading,Madejski Stadium,24224,51.422222,-0.982778,England,41
+Southampton,Southampton,Southampton,St Mary's Stadium,32689,50.905833,-1.391111,England,42
+Watford,Watford,Watford,Vicarage Road,23500,51.649836,-0.401486,England,43
+West Ham United,West Ham,London,Boleyn Ground,35303,51.531944,0.039444,England,44
+Livingston and Gretna,Livingston,Livingston,Almondvale Stadium,10122,55.88616700000001,-3.522872,Scotland,45
+Inverness C.T.,Inverness C,Iverness,Caledonian Stadium,7918,57.494721999999996,-4.2175,Scotland,46
+Celtic,Celtic,Glasgow,Celtic Park,60832,55.849711,-4.205589,Scotland,47
+Dundee,Dundee,Dundee,Dens Park,12085,56.475264,-2.973194,Scotland,48
+Dunfermline Athletic,Dunfermline,Dunfermline,East End Park,11380,56.07530799999999,-3.441906,Scotland,49
+Hibernian,Hibernian,Edinburgh,Easter Road,20421,55.961667000000006,-3.165556,Scotland,50
+Falkirk,Falkirk,Falkirk,Falkirk Stadium,9200,56.005136,-3.7542690000000003,Scotland,51
+Motherwell and Gretna,Motherwell,Motherwell,Fir Park,13742,55.779947,-3.980078,Scotland,52
+Partick Thistle,Partick,Glasgow,Firhill Stadium,10887,55.881556,-4.269639,Scotland,53
+Rangers,Rangers,Glasgow,Ibrox Stadium,51082,55.85320600000001,-4.309258,Scotland,54
+St. Johnstone,St Johnstone,Perth,McDiarmid Park,10673,56.409686,-3.476928,Scotland,55
+Hamilton Academical,Hamilton,Hamilton,New Douglas Park,6078,55.78215600000001,-4.058503,Scotland,56
+Aberdeen and Inverness C.T.,Aberdeen,Aberdeen,Pittodrie Stadium,22199,57.159167000000004,-2.088889,Scotland,57
+Kilmarnock,Kilmarnock,Kilmarnock,Rugby Park,18128,55.604225,-4.508122,Scotland,58
+St. Mirren,St Mirren,Paisley,St. Mirren Park,8016,55.850556000000005,-4.4438889999999995,Scotland,59
+Dundee United,Dundee United,Dundee,Tannadice Park,14209,56.474703000000005,-2.968961,Scotland,60
+Heart of Midlothian,Hearts,Edinburgh,Tynecastle Stadium,17420,55.939167000000005,-3.232222,Scotland,61
+Ross County,Ross County,Dingvall,Victoria Park,6310,57.595946999999995,-4.418914,Scotland,62
+FC Augsburg,Augsburg,Augsburg,SGL arena,30660,48.3225,10.882222,Germany,63
+Bayer Leverkusen,Leverkusen,Leverkusen,BayArena,30210,51.038256,7.002206,Germany,64
+Bayern Munich,Bayern Munich,Munich,Allianz Arena,71000,48.218775,11.624753,Germany,65
+Borussia Dortmund,Dortmund,Dortmund,Signal Iduna Park,80645,51.492569,7.451842,Germany,66
+Borussia Mönchengladbach,M'gladbach,Mönchengladbach,Borussia-Park,54010,51.174583,6.385464,Germany,67
+Eintracht Braunschweig,Braunschweig,Braunschweig,Eintracht-Stadion,23325,52.29,10.521666999999999,Germany,68
+Eintracht Frankfurt,Ein Frankfurt,Frankfurt,Commerzbank-Arena,51500,50.068571999999996,8.645458,Germany,69
+SC Freiburg,Freiburg,Freiburg,MAGE SOLAR Stadion,24000,47.988889,7.893056,Germany,70
+Hamburger SV,Hamburg,Hamburg,Imtech Arena,57000,53.587157999999995,9.898617,Germany,71
+Hannover 96,Hannover,Hanover,HDI-Arena,49000,52.360067,9.731197,Germany,72
+Hertha BSC,Hertha,Berlin,Olympiastadion,74244,52.514722,13.239444,Germany,73
+TSG 1899 Hoffenheim,Hoffenheim,Sinsheim,Rhein-Neckar Arena,30150,49.239008,8.888281,Germany,74
+1. FSV Mainz 05,Mainz,Mainz,Coface Arena,34000,49.984167,8.224167,Germany,75
+1. FC Nürnberg,Nurnberg,Nuremberg,Grundig-Stadion,50000,49.426111,11.125833,Germany,76
+Schalke 04,Schalke 04,Gelsenkirchen,Veltins-Arena,61673,51.554503000000004,7.067589,Germany,77
+VfB Stuttgart,Stuttgart,Stuttgart,Mercedes-Benz Arena,60441,48.792269,9.232031,Germany,78
+Werder Bremen,Werder Bremen,Bremen,Weserstadion,42100,53.066393999999995,8.837628,Germany,79
+VfL Wolfsburg,Wolfsburg,Wolfsburg,Volkswagen Arena,30000,52.431943999999994,10.803889,Germany,80
+Fortuna Düsseldorf,Fortuna Dusseldorf,Düsseldorf,Esprit Arena,54600,51.261666999999996,6.7330559999999995,Germany,81
+SpVgg Greuther Fürth,Greuther Furth,Fürth,Trolli Arena,18000,49.486944,10.999167,Germany,82
+1. FC Kaiserslautern,Kaiserslautern,Kaiserslautern,Fritz-Walter-Stadion,49780,49.434722,7.776667,Germany,83
+1. FC Köln,FC Koln,Cologne,RheinEnergieStadion,50000,50.933496999999996,6.8749970000000005,Germany,84
+FC St. Pauli,St Pauli,Hamburg,Millerntor-Stadion,24487,53.554444,9.967778,Germany,85
+Almería,Almeria,Almería,Estadio del Mediterráneo,22000,36.84,-2.435278,Spain,86
+Athletic Bilbao,Ath Bilbao,Bilbao,San Mamés,53332,43.264284,-2.950366,Spain,87
+Atlético Madrid,Ath Madrid,Madrid,Vicente Calderón,54851,40.401719,-3.7206059999999996,Spain,88
+Barcelona,Barcelona,Barcelona,Camp Nou,99354,41.38087,2.122802,Spain,89
+Betis,Betis,Seville,Benito Villamarín,52500,37.356389,-5.981389,Spain,90
+Celta de Vigo,Celta,Vigo,Balaídos,31800,42.211842,-8.739711,Spain,91
+Elche,Elche,Elche,Martínez Valero,36017,38.266944,-0.663333,Spain,92
+Espanyol,Espanol,Cornellà de Llobregat,Cornellà-El Prat,40500,41.347861,2.0756669999999997,Spain,93
+Getafe,Getafe,Getafe,Coliseum Alfonso Pérez,17700,40.325556,-3.714722,Spain,94
+Granada,Granada,Granada,Nuevo Los Cármenes,22524,37.152967,-3.595736,Spain,95
+Levante,Levante,Valencia,Ciutat de València,25534,39.494721999999996,-0.364167,Spain,96
+Málaga,Malaga,Málaga,La Rosaleda,30044,36.734092,-4.4264220000000005,Spain,97
+Osasuna,Osasuna,Pamplona,El Sadar,19553,42.796667,-1.636944,Spain,98
+Rayo Vallecano,Vallecano,Madrid,Campo de Vallecas,15489,40.391944,-3.658961,Spain,99
+Real Madrid,Real Madrid,Madrid,Santiago Bernabéu,85454,40.45306,-3.68835,Spain,100
+Real Sociedad,Sociedad,San Sebastián,Anoeta,32076,43.301378,-1.9736169999999997,Spain,101
+Sevilla,Sevilla,Seville,Ramón Sánchez Pizjuán,45500,37.384,-5.9705,Spain,102
+Valencia,Valencia,Valencia,Mestalla,55000,39.474656,-0.358361,Spain,103
+Valladolid,Valladolid,Valladolid,Nuevo José Zorrilla,26512,41.644444,-4.761111,Spain,104
+Villarreal,Villarreal,Villarreal,El Madrigal,24890,39.944167,-0.103611,Spain,105
+Deportivo La Coruña,La Coruna,A Coruña,Riazor,34600,43.368714000000004,-8.417516,Spain,106
+Mallorca,Mallorca,Palma,Iberostar Stadium,23142,39.59,2.63,Spain,107
+Zaragoza,Zaragoza,Zaragoza,La Romareda,34596,41.636592,-0.9018219999999999,Spain,108
+Ajaccio,Ajaccio,Ajaccio,Stade François Coty,10660,41.931081,8.776725,France,109
+Bastia,Bastia,Bastia,Stade Armand Cesari,16480,42.6514,9.442619,France,110
+Bordeaux,Bordeaux,Bordeaux,Stade Chaban-Delmas,34462,44.829167,-0.5977779999999999,France,111
+Évian,Evian Thonon Gaillard,Annecy,Parc des Sports,15660,45.916497,6.118054,France,112
+Guingamp,Guingamp,Guingamp,Stade du Roudourou,18126,48.566285,-3.164599,France,113
+Lille,Lille,Villeneuve-d'Ascq,Stade Pierre-Mauroy,50186,50.611883,3.1304279999999998,France,114
+Lorient,Lorient,Lorient,Stade du Moustoir,18890,47.748746999999995,-3.369367,France,115
+Lyon,Lyon,Lyon,Stade de Gerland,41842,45.723889,4.832222,France,116
+Marseille,Marseille,Marseille,Stade Velodrome,48000,43.269721999999994,5.3958330000000005,France,117
+AS Monaco,Monaco,Monaco,Stade Louis II,18500,43.727606,7.415614,France,118
+Montpellier,Montpellier,Montpellier,Stade de la Mosson,32939,43.622222,3.8119440000000004,France,119
+Nantes,Nantes,Nantes,Stade de la Beaujoire,38285,47.255631,-1.525375,France,120
+Nice,Nice,Nice,Allianz Riviera,35624,43.723328,7.258756,France,121
+Paris Saint-Germain,Paris SG,Paris,Parc des Princes,48712,48.841389,2.253056,France,122
+Reims,Reims,Reims,Stade Auguste-Delaune II,21684,49.246666999999995,4.025,France,123
+Rennes,Rennes,Rennes,Stade de la Route de Lorient,31127,48.107458,-1.712839,France,124
+Saint-Étienne,St Etienne,Saint-Étienne,Stade Geoffroy-Guichard,26747,45.460833,4.3902779999999995,France,125
+Sochaux,Sochaux,Montbéliard,Stade Auguste Bonal,20005,47.512417,6.8112,France,126
+Toulouse,Toulouse,Toulouse,Stadium Municipal,35470,43.583056,1.434167,France,127
+Valenciennes,Valenciennes,Valenciennes,Stade du Hainaut,25172,50.348131,3.5330269999999997,France,128
+Nancy,Nancy,Tomblaine,Stade Marcel Picot,20085,48.6955,6.210687,France,129
+Dijon,Dijon,Dijon,Stade Gaston Gérard,15998,47.324383000000005,5.0683419999999995,France,130
+Troyes,Troyes,Troyes,Stade de l'Aube,21877,48.307561,4.098458,France,131
+Auxerre,Auxerre,Auxerre,Stade de l'Abbé-Deschamps,24493,47.786753000000004,3.588664,France,132
+Brest,Brest,Brest,Stade Francis-Le Blé,16000,48.402932,-4.4616940000000005,France,133
+Caen,Caen,Caen,Stade Michel d'Ornano,21500,49.179460999999996,-0.396767,France,134
+Sporting de Gijón,Sp Gijon,Gijón,El Molinón,30000,43.536111,-5.637222,Spain,135
+Racing de Santander,Santander,Santander,Campos de Sport de El Sardinero,22222,43.476389000000005,-3.793333,Spain,136
