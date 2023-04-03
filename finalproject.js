@@ -813,25 +813,5 @@ var league_titles_barchart=function(filePath2){
       group of overall quality performances with Tottenham falling behind again. Finally, we looked at head-to-head
        results where we saw Chelsea and Manchester United dominate again. With that I'll leave it for you to decide
         who has achieved ultimate Premier League glory in the 21st century. Thank you.<br><br><br><br><br><br>`
-    document.getElementById("marks_and_channels_title").innerHTML = `Marks and Channels`
-    document.getElementById("marks_and_channels").innerHTML = `Choropleth map: My mark for this graph is 
-    points on the map to signify city locations. The channel is position. I chose to make England Red and the rest 
-    gray since it would stand out and because England's flag color is Red. <br>
-    Bar chart: My mark for this graph is lines and the channel is length. The lines are the bars, and the length of 
-    the bars signifies the values. I chose green for top EPL finishes because green signifies good, and this is the 
-    best finish. I chose yellow for Champions League spots because yellow signifies a medium level and Champions 
-    League spots are good but not great. I chose red for Outside the top six because this is a bad finish and red 
-    signifies bad.<br>
-    Scatterplot: My mark for this graph is points and my channel is location. The different location of the circles 
-    signifies the different values it holds. Color is also a channel I used to signify which teams correspond to each 
-    circle. I chose these colors because they are all clearly different and are different from the background color of blue also.
-    <br>
-    Streamgraph: My mark for this graph is area and my channels are color and length. The height of the area at a 
-    certain spot gives you the value and the colors of the streamgraph show different categories. I chose these 
-    colors because they are all easy to tell apart and accommodate for color-blindness.<br>
-    Node-linked graph: My marks for this graph are points and lines. My channel for this graph is size/area. 
-    The points show each different team, and the areas of these points show how many points each team got. 
-    Also, the line mark connects all the points. I chose green just because it's a nice color and to keep some consistency. 
-    `    
 })}
 
